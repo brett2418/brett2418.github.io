@@ -1,0 +1,30 @@
+.button-container {
+    text-align: center;
+  }
+  
+.select-button {
+    line-height: 2;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    width: 200px;
+    background-color: white;
+
+  }
+
+.select-button:hover{
+    background-color: lightgray;
+}
+
+.select-button:active{
+    background-color: lightgrey;
+}
+.head{
+    text-align: center;
+}
+  
+* {
+    background-color: pink;
+}
+
